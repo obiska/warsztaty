@@ -1,0 +1,37 @@
+body{
+    font-family: 'Inconsolata', monospace;
+    margin: 0;
+    background: url("./pexels-alesia-kozik-6004828.jpg");
+}
+.main {
+    width: 400px;
+    border-radius: 25px;
+}
+.container{
+    background: rgba(0,0,0,0.5);
+    padding: 50px;
+    color: white;
+    width: 100%;
+
+}
+.welcome{
+    display:flex;
+}
+.welcome-text{
+    margin: 20px;
+}
+.content{
+    width: 800px;
+    margin: auto; 
+}
+.name{
+    font-size: 52px; 
+    width: 100%;
+    text-align: center; 
+}
+.name-box{
+    width: 100%;
+}
+.instagram{
+    width:40px;
+}
